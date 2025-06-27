@@ -49,7 +49,7 @@ jupyter notebook
 
 3. Open `ronit10.ipynb` and run the cells.
 
-## 📊 Screenshots / Output
+## 📊 Output
 
 --- Evaluating Ensemble Model ---
 
